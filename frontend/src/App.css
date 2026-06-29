@@ -1,0 +1,96 @@
+/*body{
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+.container{
+    width: 400px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: white;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+}
+
+.card{
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}
+*/
+/* ---------- Bonus CSS ---------- */
+
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container{
+    width: 450px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #851ac4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #b30068;
+}
+
+.list{
+    margin-top: 20px;
+}
+
+.card{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
